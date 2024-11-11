@@ -1,0 +1,258 @@
+[   {   "nome":"Xuxa e seus amigos",
+        "dataLancamento":"01-11-1985",
+        "numeroFaixas":"12",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/0/08/Xuxa_e_seus_amigos_1985.jpg/220px-Xuxa_e_seus_amigos_1985.jpg"
+    },   
+    {
+        "nome": "Xou da Xuxa",
+        "dataLancamento": "30-06-1986",
+        "numeroFaixas": "12",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/f8/Xou_da_Xuxa.JPG/200px-Xou_da_Xuxa.JPG"
+    },
+    {
+       "nome": "Xegundo Xou da Xuxa",
+        "dataLancamento": "23-06-1987",
+        "numeroFaixas": "13",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Xegundo_Xou_da_Xuxa.jpg/220px-Xegundo_Xou_da_Xuxa.jpg"
+    },
+    {  "nome":"Xou da Xuxa 3",
+       "dataLancamento": "11-07-1988",
+       "numeroFaixas":"13",
+       "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/06/XouDaXuxa3.jpg"
+    },
+    {
+        "nome":"4º Xou da Xuxa",
+        "dataLancamento":"11-07-1989",
+        "numeroFaixas":"14",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/4/47/Xuxa4-frente.jpg/220px-Xuxa4-frente.jpg"
+    },
+    {
+        "nome":"Xuxa En Español",
+        "dataLancamento":"31-03-1990",
+        "numeroFaixas":"10",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/6/6d/Xuxa_1990.jpg"
+    },
+    {
+        "nome":"Xuxa 5",
+        "dataLancamento":"01-08-1990",
+        "numeroFaixas":"13",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/6/6f/Capa_5.jpg"
+    },
+    {
+        "nome":"Xuxa 2",
+        "dataLancamento":"25-04-1991",
+        "numeroFaixas":"10",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/Xuxa_2_1991.jpg/220px-Xuxa_2_1991.jpg"
+    },
+    {
+        "nome":"Xou da Xuxa Seis",
+        "dataLancamento":"12-09-1991",
+        "numeroFaixas":"13",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/c/c6/Xou_da_Xuxa_Seis_Capa.jpg"
+    },
+    {
+        "nome":"Xuxa 3",
+        "dataLancamento":"01-09-1992",
+        "numeroFaixas":"14",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Xuxa_3_1992.jpg/220px-Xuxa_3_1992.jpg"
+    },
+    {
+        "nome":"Xou da Xuxa Sete",
+        "dataLancamento":"02-10-1992",
+        "numeroFaixas":"12",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/4/44/Capa_Xou_da_Xuxa_Sete.jpg"
+    },
+    {
+        "nome":"Xuxa Todos sus Exitos",
+        "dataLancamento":"01-09-1993",
+        "numeroFaixas":"16",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/2/26/Xuxa_todos_sus_exitos_1993.jpg/220px-Xuxa_todos_sus_exitos_1993.jpg"
+    },
+    {
+        "nome":"Xuxa",
+        "dataLancamento":"01-07-1993",
+        "numeroFaixas":"14",
+        "imagem":"https://static.wikia.nocookie.net/xuxa/images/6/6e/Xuxa.jpg/revision/latest?cb=20160614234425&path-prefix=pt-br"
+    },
+    {
+        "nome":"Sexto Sentido",
+        "dataLancamento":"23-08-1994",
+        "numeroFaixas":"14",
+        "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmS0Qj2_agZimeqNqSKB1CvdOB3Buc5-VhQ&s"
+    },
+    {
+        "nome":"El Pequeño Mundo",
+        "dataLancamento":"01-10-1994",
+        "numeroFaixas":"15",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/3/33/Xuxa_El_Pequeno_Mundo.jpg/220px-Xuxa_El_Pequeno_Mundo.jpg"
+    },
+    {
+        "nome":"Luz No Meu Caminho",
+        "dataLancamento":"15-10-1995",
+        "numeroFaixas":"14",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/7/76/Capa_Luz_no_meu_caminho_Xuxa.jpg"
+    },
+    {
+        "nome":"Xuxa 10 Anos",
+        "dataLancamento":"30-07-1996",
+        "numeroFaixas":"13",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/7/7a/Xuxa_10_Anos.jpg"
+    },
+    {
+        "nome":"Tô de Bem Com a Vida",
+        "dataLancamento":"05-09-1996",
+        "numeroFaixas":"14",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/2/24/Capa_Xuxa_T%C3%B4_de_bem_com_a_vida.jpg"  
+    },
+    {
+        "nome":"Xuxa Dance",
+        "dataLancamento":"01-12-1996",
+        "numeroFaixas":"12",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Xuxa_dance_1996.jpg/220px-Xuxa_dance_1996.jpg"
+    },
+    {
+        "nome":"Arriá da Xuxa",
+        "dataLancamento":"16-06-1997",
+        "numeroFaixas":"11",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/f/fe/Arrai%C3%A1_da_Xuxa.jpg/220px-Arrai%C3%A1_da_Xuxa.jpg"
+    },
+    {
+        "nome":"Boas Notícias",
+        "dataLancamento":"16-09-1997",
+        "numeroFaixas":"14",
+        "imagem":"https://upload.wikimedia.org/wikipedia/en/5/5c/Xuxa_Boas_Not%C3%ADcias_album.jpg"
+    },
+    {
+        "nome":"Só Faltava Você",
+        "dataLancamento":"16-09-1998",
+        "numeroFaixas":"16",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273f7cc8deb0bd5592786594ddc"
+    },
+    {
+        "nome":"El Mundo Es de los Dos",
+        "dataLancamento":"01-01-1999",
+        "numeroFaixas":"10",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/thumb/4/45/Xuxa_-_El_mundo_es_de_los_dos.png/220px-Xuxa_-_El_mundo_es_de_los_dos.png"
+    },
+    {
+        "nome":"Xuxa 2000",
+        "dataLancamento":"05-17-1999",
+        "numeroFaixas":"16",
+        "imagem":"https://upload.wikimedia.org/wikipedia/pt/6/6f/Capa_Xuxa_2000.jpg"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos(XSPB)",
+        "dataLancamento":"05-10-2000",
+        "numeroFaixas":"15",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273222e2f66c4275a531ecd4ccf"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 2(XSPB 2)",
+        "dataLancamento":"05-09-2001",
+        "numeroFaixas":"20",
+        "imagem":"https://i.scdn.co/image/ab67616d00001e020d0365ff977e0025f8c928e1"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 3(XSPB 3)",
+        "dataLancamento":"31-08-2002",
+        "numeroFaixas":"17",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273dc21a140a3b42729fd80d3f1"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 4(XSPB 4)",
+        "dataLancamento":"25-06-2003",
+        "numeroFaixas":"21",
+        "imagem":"https://cdns-images.dzcdn.net/images/cover/1cdbb9bf78ad07f6693aca52fb42f792/0x1900-000000-80-0-0.jpg"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 5(XSPB 5)- Circo",
+        "dataLancamento":"26-09-2004",
+        "numeroFaixas":"22",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273cd2e75447840ec32db7d394e"
+    },
+    {
+        "nome":"Xuxa Solamente para Bajitos (XSPB)",
+        "dataLancamento":"12-02-2005",
+        "numeroFaixas":"16",
+        "imagem":"https://m.media-amazon.com/images/I/517GkVBRNyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 6(XSPB 6)- Festa",
+        "dataLancamento":"09-12-2005",
+        "numeroFaixas":"18",
+        "imagem":"https://i.scdn.co/image/ab67616d00001e024efdd1b4769254c545e4d82d"
+    },
+    {
+        "nome":"Xuxa 20 Anos",
+        "dataLancamento":"12-07-2006",
+        "numeroFaixas":"14",
+        "imagem":"https://taiobadiscos.com.br/cdn/shop/products/0bb521c330c14f71a4671b00bd96be39_c8b30680-8e1a-46bc-95c3-753e5e91a75e.jpg?v=1701450016"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 7(XSPB 7)",
+        "dataLancamento":"07-07-2007",
+        "numeroFaixas":"15",
+        "imagem":"https://i.scdn.co/image/ab67616d00001e02275492006a2bdbab3c450843"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 8(XSPB 8)",
+        "dataLancamento":"19-09-2008",
+        "numeroFaixas":"16",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273896360c937a03f23de553b86"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 9(XSPB 9)- Natal Mágico",
+        "dataLancamento":"05-10-2009",
+        "numeroFaixas":"15",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273c59044a944305a7707a8ac26"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 10(XSPB 10)- Baixinhos, Bichinhos e Mais",
+        "dataLancamento":"29-08-2010",
+        "numeroFaixas":"16",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b2738357d3ff6b53b17437b6882c"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 11(XSPB 11)",
+        "dataLancamento":"18-09-2011",
+        "numeroFaixas":"14",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b2732c3a320463e891d5da319c8d"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 12(XSPB 12)- É Pra Dançar",
+        "dataLancamento":"29-06-2013",
+        "numeroFaixas":"15",
+        "imagem":"https://i.scdn.co/image/ab67616d00001e0244b3aa2f16c8b9a981e22285"
+    },
+    {
+        "nome":"Coleção Xou da Xuxa - Seleção de Fãs",
+        "dataLancamento":"17-08-2013",
+        "numeroFaixas":"14",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b2733e068afaa68629b94d0d446f"
+    },
+    {
+        "nome":"Xuxa Só para Baixinhos 13(XSPB 13)- ABC do XSPB",
+        "dataLancamento":"16-12-2016",
+        "numeroFaixas":"27",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b2734f1c7fe3853546d22f229489"
+    },
+    {
+        "nome":"Planeta X",
+        "dataLancamento":"20-03-2023",
+        "numeroFaixas":"11",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273944dee229ed5682dcd956140"
+    },
+    {
+        "nome":"Raridades X",
+        "dataLancamento":"21-09-2024",
+        "numeroFaixas":"10",
+        "imagem":"https://i.scdn.co/image/ab67616d0000b273a10d284058295bfd38b9a986"
+    },
+    {
+        "nome":"4º Xou da Xuxa(Edição Especial de 35 anos)",
+        "dataLancamento":"20-09-2024",
+        "numeroFaixas":"30",
+        "imagem":"https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/af/39/50af391b-d115-e945-65e9-2c2cc0ad6617/196872445466.jpg/1200x1200bb.jpg"
+    }
+
+]
